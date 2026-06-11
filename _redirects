@@ -1,0 +1,4 @@
+# Keep one main domain for SEO. Adjust if you prefer www as primary.
+https://www.bamdev.co.uk/* https://bamdev.co.uk/:splat 301
+http://bamdev.co.uk/* https://bamdev.co.uk/:splat 301
+http://www.bamdev.co.uk/* https://bamdev.co.uk/:splat 301
