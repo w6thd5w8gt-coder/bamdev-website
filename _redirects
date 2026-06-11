@@ -1,2 +1,0 @@
-# Cloudflare Workers Static Assets redirect file.
-# Keep this file relative-only. Handle www/non-www redirects in Cloudflare Redirect Rules.
