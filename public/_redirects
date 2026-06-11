@@ -1,0 +1,2 @@
+# Cloudflare redirects file
+# Keep sources relative. Domain redirects should be handled in Cloudflare Redirect Rules.
