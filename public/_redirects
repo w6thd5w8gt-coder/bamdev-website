@@ -1,0 +1,2 @@
+# Cloudflare Workers Static Assets redirect file.
+# Keep this file relative-only. Domain redirects such as www -> apex must be handled in Cloudflare Rules.
