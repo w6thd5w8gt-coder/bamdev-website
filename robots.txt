@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://bamdev.co.uk/sitemap.xml
+Sitemap: https://bamdevelopment.co.uk/sitemap.xml
