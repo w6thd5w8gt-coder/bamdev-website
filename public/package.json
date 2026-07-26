@@ -1,0 +1,13 @@
+{
+  "name": "bam-development-website",
+  "version": "5.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy",
+    "validate": "node scripts/validate.mjs"
+  },
+  "devDependencies": {
+    "wrangler": "latest"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "$schema": "./node_modules/wrangler/config-schema.json",
+  "name": "bamdev",
+  "compatibility_date": "2026-07-23",
+  "assets": {"directory": "./public/", "not_found_handling": "404-page"}
+}

@@ -1,0 +1,1 @@
+window.BAM_CONFIG={contactEmail:"bmirza@bamdevelopment.co.uk",bookingUrl:"https://calendly.com/bmirza-bamdevelopment/new-meeting",intakeEndpoint:"",analyticsProvider:"dataLayer"};
